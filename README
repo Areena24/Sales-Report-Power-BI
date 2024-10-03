@@ -1,0 +1,21 @@
+Hello Everyone,,
+
+I'm excited to share my latest Power BI Sales Report for the Awesome Chocolates. I created a comprehensive sales report using Data Cleaning and Data Process techniques.
+
+Key Learnings:
+Understanding the Power BI
+Importing Data from MYSQL Database
+Data Transformation 
+Data Cleaning
+DAX Measures
+
+Key Findings:
+Total Sales: $43.56M
+Total Boxes: 3M
+Shipment Count: 8K
+LBS %: 9.6%
+
+Insights:
+Sales Trend: Line Chart
+Sales By Geography: Bar Chart
+Table: Top 10 Sales Person, Total Sales, Total Boxes, LBS%
